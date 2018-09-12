@@ -1,0 +1,11 @@
+.red-title {
+  color: red;
+}
+
+header li a:hover {
+  cursor: crosshair;
+}
+
+header li a:visited {
+  color: greenyellow;
+}
